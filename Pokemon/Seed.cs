@@ -1,7 +1,7 @@
-﻿using PokemonReviewApp.Data;
-using PokemonReviewApp.Models;
+﻿using PokemonApp.Data;
+using PokemonApp.Models;
 
-namespace PokemonReviewApp
+namespace PokemonApp
 {
     public class Seed
     {
@@ -9,6 +9,7 @@ namespace PokemonReviewApp
         public Seed(DataContext context)
         {
             this.dataContext = context;
+
         }
         public void SeedDataContext()
         {

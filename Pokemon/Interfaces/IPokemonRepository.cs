@@ -1,7 +1,7 @@
-﻿using PokemonReviewApp.Dto;
-using PokemonReviewApp.Models;
+﻿using PokemonApp.Dto;
+using PokemonApp.Models;
 
-namespace PokemonReviewApp.Interfaces
+namespace PokemonApp.Interfaces
 {
     public interface IPokemonRepository
     {

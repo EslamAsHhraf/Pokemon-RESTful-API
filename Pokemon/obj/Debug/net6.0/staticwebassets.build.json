@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w7BQdke3kbR4JG0CQQASWenVenb6JvVdUTRFZyDcXmA=",
+  "Source": "PokemonAPP",
+  "BasePath": "_content/PokemonAPP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

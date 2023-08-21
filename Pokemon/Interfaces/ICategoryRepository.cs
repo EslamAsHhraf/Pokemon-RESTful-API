@@ -1,6 +1,6 @@
-﻿using PokemonReviewApp.Models;
+﻿using PokemonApp.Models;
 
-namespace PokemonReviewApp.Interfaces
+namespace PokemonApp.Interfaces
 {
     public interface ICategoryRepository
     {

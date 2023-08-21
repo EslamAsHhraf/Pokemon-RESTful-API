@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.ViewEngines;
 using System.ComponentModel.DataAnnotations;
 
-namespace PokemonReviewApp.Models
+namespace PokemonApp.Models
 {
     public class Pokemon
     {

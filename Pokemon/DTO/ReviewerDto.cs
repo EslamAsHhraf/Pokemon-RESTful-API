@@ -1,6 +1,6 @@
-﻿using PokemonReviewApp.Models;
+﻿using PokemonApp.Models;
 
-namespace PokemonReviewApp.Dto
+namespace PokemonApp.Dto
 {
     public class ReviewerDto
     {

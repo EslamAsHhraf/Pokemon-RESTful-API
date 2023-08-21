@@ -1,9 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PokemonReviewApp.Models;
-using System.Collections.Generic;
-using System.Reflection.Emit;
+using PokemonApp.Models;
 
-namespace PokemonReviewApp.Data
+
+namespace PokemonApp.Data
 {
     public class DataContext : DbContext
     {
