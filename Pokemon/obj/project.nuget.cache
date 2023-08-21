@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IGL7nLzzx6KAX75O1ZBQdqo820+W6p3hzcoy3aoHr4vO7cb+pYY5XpzVRSrEjW/os4EAybNmwqh5TcAads5aNw==",
+  "dgSpecHash": "vDRLojnC2atp8vaLeoQwlCeS/Nhs7IuPxkMS8p68s62XS7ZFxgGBzZpgHNLQCspEKYCKjrRK5ZFgCnptcljdDg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Web\\.net\\pokemon\\git\\Pokemon-API\\Pokemon\\Pokemon.csproj",
+  "projectFilePath": "D:\\Projects\\Web\\.net\\pokemon\\git\\Pokemon-API\\Pokemon\\PokemonAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eslam Ashraf\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Eslam Ashraf\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

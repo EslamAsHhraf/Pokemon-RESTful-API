@@ -745,9 +745,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Web\\.net\\pokemon\\git\\Pokemon-API\\Pokemon\\Pokemon.csproj",
-      "projectName": "Pokemon",
-      "projectPath": "D:\\Projects\\Web\\.net\\pokemon\\git\\Pokemon-API\\Pokemon\\Pokemon.csproj",
+      "projectUniqueName": "D:\\Projects\\Web\\.net\\pokemon\\git\\Pokemon-API\\Pokemon\\PokemonAPP.csproj",
+      "projectName": "PokemonAPP",
+      "projectPath": "D:\\Projects\\Web\\.net\\pokemon\\git\\Pokemon-API\\Pokemon\\PokemonAPP.csproj",
       "packagesPath": "C:\\Users\\Eslam Ashraf\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\Web\\.net\\pokemon\\git\\Pokemon-API\\Pokemon\\obj\\",
       "projectStyle": "PackageReference",
