@@ -15,6 +15,7 @@ namespace PokemonApp.Repository
             _context = context;
             _mapper = mapper;
         }
+        
         public bool CountryExists(int id)
         {
             return _context.Countries.Any(c => c.Id == id);
