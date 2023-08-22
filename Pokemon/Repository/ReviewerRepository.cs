@@ -10,12 +10,10 @@ namespace PokemonApp.Repository
     public class ReviewerRepository : IReviewerRepository
     {
         private readonly DataContext _context;
-        private readonly IMapper _mapper;
 
         public ReviewerRepository(DataContext context, IMapper mapper)
         {
             _context = context;
-            _mapper = mapper;
         }
 
         public bool CreateReviewer(Reviewer reviewer)
