@@ -49,7 +49,6 @@ namespace PokemonApp.Repository
         {
             return _context.Owners.Any(o => o.Id == ownerId);
         }
-
         public bool Save()
         {
             var saved = _context.SaveChanges();
