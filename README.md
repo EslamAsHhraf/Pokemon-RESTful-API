@@ -27,7 +27,9 @@
  <li>
  
  **Pokémon APP** website by using **.NET Core 6 Web API**</li>
+  <li>You can update and create Pokémon data and it's Owner </li>
   <li>Review and rate your favorite Pokémon </li>
+  <li>Connected to <a href="https://www.microsoft.com/en-us/sql-server">SQL Sever</a> </li>
  <li>Library Installed</li>
  <ul>
     <li><a href="https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1?_src=template">AutoMapper.Extensions.Microsoft.DependencyInjection</a>  </li>
