@@ -5,7 +5,7 @@ using PokemonApp.Interfaces;
 using PokemonApp.Models;
 
 
-namespace PokemonReviewApp.Repository
+namespace PokemonApp.Repository
 {
     public class ReviewerRepository : IReviewerRepository
     {

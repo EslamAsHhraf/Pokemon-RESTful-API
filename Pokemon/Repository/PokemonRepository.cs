@@ -3,7 +3,7 @@ using PokemonApp.Dto;
 using PokemonApp.Interfaces;
 using PokemonApp.Models;
 
-namespace PokemonReviewApp.Repository
+namespace PokemonApp.Repository
 {
     public class PokemonRepository : IPokemonRepository
     {
