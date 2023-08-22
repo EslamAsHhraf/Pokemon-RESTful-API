@@ -54,7 +54,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img align="center"  height =70px src="https://media1.giphy.com/media/FCffpN404oRZpFbSzl/giphy.gif?cid=ecf05e47y4eawmtspp58yneg0w0cu12bed91iv25k9p3nwzg&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Contributors
+## <img align="center"  height =80px src="https://media1.giphy.com/media/FCffpN404oRZpFbSzl/giphy.gif?cid=ecf05e47y4eawmtspp58yneg0w0cu12bed91iv25k9p3nwzg&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Contributors
 
 <br>
 <table >
