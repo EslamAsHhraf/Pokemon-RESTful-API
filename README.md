@@ -47,7 +47,7 @@
 ## <img  align= center width= 70px height =70px src="https://media0.giphy.com/media/xUPGcgIWt3RSVIIydi/giphy.gif?cid=ecf05e47y4eawmtspp58yneg0w0cu12bed91iv25k9p3nwzg&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Diagram
 
 <div  align="center">
-<img height=450px src="https://github.com/EslamAsHhraf/Neural-Network-Labs/assets/71986226/d96bf9ee-0b7a-40b4-8a3a-82711865e291">
+<img height=575px src="https://github.com/EslamAsHhraf/Neural-Network-Labs/assets/71986226/d96bf9ee-0b7a-40b4-8a3a-82711865e291">
 </img> 
 </div>
 
