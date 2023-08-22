@@ -2,7 +2,6 @@
 using PokemonApp.Interfaces;
 using PokemonApp.Models;
 
-
 namespace PokemonApp.Repository
 {
     public class CategoryRepository : ICategoryRepository
@@ -12,6 +11,7 @@ namespace PokemonApp.Repository
         {
             _context = context;
         }
+
         public bool CategoryExists(int id)
         {
             return _context.Categories.Any(c => c.Id == id);
@@ -21,6 +21,7 @@ namespace PokemonApp.Repository
         {
             _context.Add(category);
             return Save();
+
         }
 
         public bool DeleteCategory(Category category)
