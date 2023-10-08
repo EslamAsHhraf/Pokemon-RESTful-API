@@ -1,4 +1,4 @@
-# <img  align="center" width= 80px  src="https://media1.giphy.com/media/nMy8HTFQRWpudNwbxQ/giphy.gif?cid=ecf05e47y4eawmtspp58yneg0w0cu12bed91iv25k9p3nwzg&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Pokemon Review App
+# 🐢 Pokemon Review App
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#diagram"> 🏗️ Diagram</a>
@@ -21,7 +21,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
-## <img align="center"  height =50px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFzbjJqY3Eyd3RjczMycTloYXk4dHd6bjZobXZub2o3NmFkN3lxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sd9XrDFZZ0Q0OXAdJM/giphy.gif"> Overview
+## 📙 Overview
 
 <ul>
  <li>
@@ -46,7 +46,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id ="diagram"></a>
 
-## <img  align= center width= 70px height =70px src="https://media0.giphy.com/media/xUPGcgIWt3RSVIIydi/giphy.gif?cid=ecf05e47y4eawmtspp58yneg0w0cu12bed91iv25k9p3nwzg&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Diagram
+## 📑 Diagram
 
 <div  align="center">
 <img height=575px src="https://github.com/EslamAsHhraf/Neural-Network-Labs/assets/71986226/d96bf9ee-0b7a-40b4-8a3a-82711865e291">
@@ -56,7 +56,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img align="center"  height =80px src="https://media1.giphy.com/media/FCffpN404oRZpFbSzl/giphy.gif?cid=ecf05e47y4eawmtspp58yneg0w0cu12bed91iv25k9p3nwzg&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Contributors
+## 👑 Contributors
 
 <br>
 <table >
